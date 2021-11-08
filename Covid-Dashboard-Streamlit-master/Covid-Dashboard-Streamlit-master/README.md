@@ -29,13 +29,13 @@ Also the user can hide a Pie chart using aa checkbox , 3 pie char exists : one f
 ## Here are some screenshots from the app.
 
 ### 1- All Data in a table
-![](https://raw.githubusercontent.com/hbfawaz112/Covid-Dashboard-Streamlit/master/ss/s1.PNG)
+![](https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Covid-Dashboard-Streamlit-master/Covid-Dashboard-Streamlit-master/ss/s1.PNG)
 
 ### 2- A map to visualize cases by countries from it
-![](https://raw.githubusercontent.com/hbfawaz112/Covid-Dashboard-Streamlit/master/ss/map3.PNG)
+![](https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Covid-Dashboard-Streamlit-master/Covid-Dashboard-Streamlit-master/ss/map3.PNG)
 
 ### 3- A bar chart visualize cases by countries from it
-![](https://raw.githubusercontent.com/hbfawaz112/Covid-Dashboard-Streamlit/master/ss/bar3.PNG)
+![](https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Covid-Dashboard-Streamlit-master/Covid-Dashboard-Streamlit-master/ss/bar3.PNG)
 
 ### 4- A pie chart visualize cases by countries from it
-![](https://raw.githubusercontent.com/hbfawaz112/Covid-Dashboard-Streamlit/master/ss/pie3.PNG)
+![](https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Covid-Dashboard-Streamlit-master/Covid-Dashboard-Streamlit-master/ss/pie3.PNG)
