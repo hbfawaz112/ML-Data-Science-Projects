@@ -16,12 +16,6 @@ based on a user input and the given features if some one has diabetes or not. An
 <hr>
 
 ### Screenshots
-<table>
-  <tr>
-      <td> <img src="https://raw.githubusercontent.com/hbfawaz112/Diabestes-Detection-Web-App/main/pic.PNG"  alt="1"  /></td>
-      <td><img src="https://raw.githubusercontent.com/hbfawaz112/Diabestes-Detection-Web-App/main/s2.PNG" alt="2" /></td>
-  </tr>  
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/hbfawaz112/Diabestes-Detection-Web-App/main/s3.PNG" alt="3"/></td>
-  </tr> 
-</table>
+<img src="https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Diabestes-Detection-Web-App-main/Diabestes-Detection-Web-App-main/pic.PNG"  alt="1"  />
+<img src="https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Diabestes-Detection-Web-App-main/Diabestes-Detection-Web-App-main/s2.PNG" alt="2" />
+<img src="https://raw.githubusercontent.com/hbfawaz112/ML-Data-Science-Projects/main/Diabestes-Detection-Web-App-main/Diabestes-Detection-Web-App-main/s3.PNG" alt="3"/>
